@@ -1,0 +1,12 @@
+# pack-refs with: peeled fully-peeled sorted 
+b5d7bbb8f276a01fe35bbba1e25d219c048fda1b refs/remotes/origin/2019_update
+a6f58243988cc54acff29deba2a6f64adc253b46 refs/remotes/origin/master
+c66ae2890bf341fe377025217116213127bef0f2 refs/remotes/origin/rinkeby
+4783288233983d5f1b1972c58a713e1ffc6ab6e4 refs/tags/1-smoke-test
+^f62b53843cc875025a91e287b3f3efbb4d851d9a
+9c12e18e81f5c5d5a3a2140743ffebaed32fd5e4 refs/tags/2-list-candidates
+^42182d57f1cfa4f5e4656bb24ee32ec93c3f8f64
+ecd3c5a7ce292b703141a296b9fdd2f5ee896404 refs/tags/3-cast-votes
+^319010570c95b15b30b732a08d8bc4ce226af4fd
+ad42386eaa3b81edafbeae803f54a3a3a9d47698 refs/tags/4-watch-events
+^23e3f7fdf7eb7e365f009c9d7998ccce4c59412a
